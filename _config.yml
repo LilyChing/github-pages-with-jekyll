@@ -1,4 +1,4 @@
-minima: AAAAAAAAAAAAA
+minima: minima theme
 author: lily
 email: lily@domain.com
 description: //// # this means to ignore newlines until "baseurl:"
